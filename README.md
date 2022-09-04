@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Shlepeee
-- 👀 I’m interested in C++ and C#
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on a game
+- I am learning python and machine learning using tensorflow 2.9
 - 📫 How to reach me tompin390@gmail.com
 
 <!---
